@@ -1,2 +1,4 @@
 #!/usr/bin/env node
-console.log("hi!")
+
+const five = require('five')
+console.log(five())
